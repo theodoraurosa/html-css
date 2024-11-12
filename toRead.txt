@@ -1,0 +1,30 @@
+
+Estilos HTML
+Use o styleatributo para estilizar elementos HTML
+Usar background-colorpara cor de fundo
+Usar colorpara cores de texto
+Usar font-familypara fontes de texto
+Usar font-sizepara tamanhos de texto
+Usar text-alignpara alinhamento de texto
+
+
+Elementos de formatação HTML
+Os elementos de formatação foram projetados para exibir tipos especiais de texto:
+
+<b>- Texto em negrito
+<strong>- Texto importante ,e semantica foi feita para colocar uma palavra mais forte
+<i>- Texto em itálico
+<em>- Texto enfatizado
+<mark>- Texto marcado
+<small>- Texto menor
+<del>- Texto deletado
+<ins>- Texto inserido
+<sub>- Texto subscrito
+<sup>- Texto sobrescrito
+
+
+O modelo de caixa CSS define como as partes de uma caixa — margem, borda, preenchimento e conteúdo — interagem para formar uma estrutura visível na página. 
+Ele aplica-se totalmente a caixas de bloco, enquanto caixas inline utilizam apenas parte desse comportamento.
+como funciona o CSS Box Model para margens (margin),<br>
+ padding (enchimento), bordas (border) e content edge (o tamanho do conteúdo).<br>
+  Também vamos entender width (largura) e height (para altura) de elementos 
